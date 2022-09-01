@@ -7,11 +7,11 @@
 ### Programado por: Susana Arenas López
 
 ***
-Se crearan proyectos desde JAVA 
+Este proyecto me sirve para empezar a programar en clase 
 
 - Clases
-- Entradas por consola
 - Objetos
 - Abstraccion
+- Entradas por teclado
 
 ###### Medellin 2022
